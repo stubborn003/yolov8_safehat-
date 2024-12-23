@@ -1,0 +1,23 @@
+# 训练数据用于模型的训练
+train: "C:\\Users\\12646\\Desktop\\v8\\archive\\css-data\\train\\images\\"
+# 验证数据用于模型训练过程中的评估和参数调试
+val: "C:\\Users\\12646\\Desktop\\v8\\archive\\css-data\\valid\\images\\"
+# 测试数据用于模型完成训练后的测试
+test: "C:\\Users\\12646\\Desktop\\v8\\archive\\css-data\\test\\images\\"
+
+# number of classes
+nc: 10
+
+# class names
+# names: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
+# Hardhat-安全帽
+# Mask-口罩
+# No-Hardhat-无安全帽
+# NO-Mask-无口罩
+# NO-Safety Vest-无安全背心
+# Person-人
+# Safety Cone-安全锥
+# Safety Vest-安全背心
+# machinery-机械（挖掘机）
+# vehicle-车辆
+names: ["Hardhat", "Mask", "NO-Hardhat", "NO-Mask", "NO-Safety Vest", "Person", "Safety Cone", "Safety Vest", "machinery", "vehicle"]
