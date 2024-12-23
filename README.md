@@ -9,3 +9,4 @@
 激活环境：activate safehat
 安装Yolo:pip install ultralytics
 
+视频：https://www.bilibili.com/video/BV1Sw411v7nR/?spm_id_from=333.337.search-card.all.click&vd_source=ab109c3b8f1f9aaf1cd716db5eec15b9
