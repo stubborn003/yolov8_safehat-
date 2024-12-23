@@ -7,5 +7,5 @@
 #环境准备
 创建环境并安装python:conda create-n safehat python=3.l0
 激活环境：activate safehat
-安装YoLO:pip install ultralytics
+安装Yolo:pip install ultralytics
 
